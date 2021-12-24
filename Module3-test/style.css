@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:cursive;    
+}
+.navbar{
+    background-color: gray ;
+    color: black ;
+}
+.logo{
+    font-size: 60px;
+    font-weight: 600;
+}
+.navbar-nav{
+    margin-top: 10px;
+}
+.navbar-nav a{
+    background-color: white;
+    color: black;
+    border-bottom: 3px solid black;
+}
+.Home h1{
+    margin: 50px 0px;
+    font-weight: 600;
+}
+.menutile{
+    background-color: #999;
+    padding: 20px 50px;
+    margin-bottom: 50px;
+}
+#menuHeading h3{
+    font-weight: 900;
+    padding-bottom: 30px;
+}
+#menuItem p{
+    font-size: 20px;
+    padding: 0px 20px;
+}
